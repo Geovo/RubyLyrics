@@ -5,7 +5,7 @@ The main goal is to fetch lyrics for iTunes songs, will add Applecscript files l
 
 Instructions:
 
-1. Fork the project
+1. Copy the project
 
 2. cd /into/directory
 
